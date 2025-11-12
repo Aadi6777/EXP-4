@@ -98,3 +98,4 @@ Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
 
+Thus decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral is executed successfully.
